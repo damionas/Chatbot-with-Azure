@@ -28,3 +28,4 @@ The Azure Cognitive Service -
 
                       QnA maker
                       LUIS
+                      Bot Emulator
