@@ -19,3 +19,8 @@ I created this Chatbot as a consulatancy project for Red30 to interate with peop
                   
                   
                   Integrated with UI
+
+
+
+
+The Azure Cognitive Service - QnA maker is then integrated
