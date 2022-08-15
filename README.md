@@ -7,10 +7,10 @@
                   Designed the conversation
                   
                   
-                  Identify intents and entities
+                  Identified intents and entities
                   
                   
-                  Train the bot engine
+                  Trained the bot engine
                   
                   
-                  Write the action server
+                  Wrote the action server
