@@ -1,7 +1,7 @@
 # Chatbot-with-Azure
 
 
-I created this Chatbot as a consulatancy project for Bannie Cakes to interate with people interested in her products
+I created this Chatbot as a consulatancy project for Red30 to interate with people interested in her products and its description
 
 #5 steps i took
 
